@@ -5,7 +5,7 @@
 </p>  
 
 <p align="center">  
-<img src="https://img.shields.io/badge/STATUS-COMPLETO-green">  
+<img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">  
 
 ## 📑 Índice  
 - [Descripción del proyecto](#descripción-del-proyecto)  
@@ -38,6 +38,7 @@ Puedes acceder al código fuente en este repositorio y abrirlo en tu navegador:
 ```bash
 # Clonar el repositorio
 git clone https://github.com/DAN-CASG/portafolio.git
+
 
 
 
