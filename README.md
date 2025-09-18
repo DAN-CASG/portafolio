@@ -13,11 +13,10 @@
 - [Estado del proyecto](#estado-del-proyecto)  
 - [Características y demostración](#características-y-demostración)  
 - [Acceso al proyecto](#acceso-al-proyecto)  
-- [Tecnologías utilizadas](#tecnologías-utilizadas)  
 ---
 
 ## Descripción del proyecto  
-Este portafolio personal fue creado con **HTML5** y **CSS3** para mostrar mi experiencia profesional y facilitar el acceso a mis redes.  
+Este portafolio personal fue creado con **HTML5** y **CSS** para mostrar mi experiencia profesional y facilitar el acceso a mis redes.  
 El objetivo es contar con una presentación digital sencilla, moderna y responsiva, que refleje mi compromiso con la mejora continua y la optimización de procesos.  
 
 ---
@@ -37,7 +36,7 @@ El objetivo es contar con una presentación digital sencilla, moderna y responsi
 
 ## 📁 Acceso al proyecto  
 Puedes acceder al código fuente en este repositorio y abrirlo en tu navegador:  
-
 ```bash
 # Clonar el repositorio
 git clone https://github.com/DAN-CASG/portafolio.git
+
