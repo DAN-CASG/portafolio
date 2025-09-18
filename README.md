@@ -23,7 +23,7 @@ El objetivo es contar con una presentación digital sencilla, moderna y responsi
 
 ## Estado del proyecto  
 <h4 align="center">  
-:construction: Proyecto Concluido :terminado:  
+:construction: Proyecto Concluido
 </h4>  
 
 ---
@@ -39,4 +39,5 @@ Puedes acceder al código fuente en este repositorio y abrirlo en tu navegador:
 ```bash
 # Clonar el repositorio
 git clone https://github.com/DAN-CASG/portafolio.git
+
 
